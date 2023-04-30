@@ -1,6 +1,6 @@
 # About Me
 <p align="center">
-  <img src="[https://discord.c99.nl/widget/theme-1/1068608414516777000.png](https://discord.c99.nl/widget/theme-1/1039243324625801246.png)">
+  <img src="https://discord.c99.nl/widget/theme-1/1039243324625801246.png">
 </p>
 
 ![](https://github-stats-alpha.vercel.app/api?username=JenZip&cc=000&tc=fff&ic=fff&bc=000)
